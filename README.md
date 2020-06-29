@@ -4,4 +4,5 @@ This repository contains the programs for the Network lab of 6th sememster of B.
 
 ## List of Programs
 
-- TCP
+- Client-Server Communication using Socket Programming (TCP)
+- Client-Server Communication using Socket Programming (UDP)
